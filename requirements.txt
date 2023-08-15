@@ -1,0 +1,10 @@
+torch==1.11
+numpy
+matplotlib
+tqdm
+pandas
+jinja2
+scipy
+sklearn
+
+

@@ -1,0 +1,16 @@
+.idea/*
+__MACOSX*
+__pycache__/*
+models/*
+results/*
+utils/*
+test*
+dataset/*
+config/*
+saves/*
+*.zip
+.DS_Store
+config.py
+download_data.py
+venv/*
+ChemGNN/*

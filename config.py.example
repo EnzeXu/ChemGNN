@@ -1,0 +1,21 @@
+from ChemGNN import get_config
+
+CONFIGS = {
+    'data_config': {
+        'main_path': './',
+        'dataset': 'GCN_ALL',
+        'model': 'ChemGNN',
+    },
+    'training_config': {
+        'device_type': 'cpu',
+        'epoch': 400,
+        'epoch_step': 5,
+        'batch_size': 128,
+        'lr': 0.001,
+        'seed': 0,
+        'train_length_rate': 0.6,
+        'test_length_rate': 0.3,
+    }
+}
+
+config = get_config(CONFIGS, "data/const_index.py")
