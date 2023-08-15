@@ -2,7 +2,7 @@ ChemGNN: Chemical Environment Graph Neural Network
 ===
 
 <p>
-  <img src="https://github.com/chenm19/ChemGNN/assets/90367338/0ebecbac-f0bb-4347-8a6c-b89e3a42277b" alt="ChemGNN_Dataset_Logo" width="100%">
+  <img src="https://github.com/EnzeXu/ChemGNN/assets/90367338/5ae35db8-b7ca-497c-a5d7-b528386ef9e5" alt="ChemGNN_Dataset_Logo" width="100%">
 </p>
 
 Overview of Chemical Environment Graph Neural Network (ChemGNN) for optical band gap prediction of g-C3N4 nanosheet. Chemical Environment Adaptive Learning (CEAL) layers are employed to extract messages from atoms' chemical environments.
