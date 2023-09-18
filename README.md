@@ -37,7 +37,7 @@ Paper BibTeX:
 @article{chen2023chemical,
   title        = {Chemical Environment Adaptive Learning for Optical Band Gap Prediction of Doped Graphitic Carbon Nitride Nanosheets},
   author       = {Chen, Chen and Xu, Enze and Yang, Defu and Yan, Chenggang and Wei, Tao and Chen, Hanning and Wei, Yong and Chen, Minghan},
-  journal      = {arXiv preprint arXiv:2302.09539},
+[//]: # (  journal      = {arXiv preprint arXiv:2302.09539},)
   year         = {2023}
 }
 ```
